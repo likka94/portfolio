@@ -1,7 +1,7 @@
 // Typing Text Js
 $(document).on('DOMContentLoaded', function () {
     window.ityped.init(document.querySelector('.ityped'), {
-        strings: ['HI THERE!', 'I’M ARYA STARK_', 'Web & UI Designer!'],
+        strings: ['HI THERE!', 'I’M Likhitha K', 'Data Specialist!'],
         loop: true
     });
 });
@@ -222,3 +222,4 @@ document.addEventListener('DOMContentLoaded', function () {
         window.scrollTo({ top: 0, behavior: 'smooth' });
     });
 });
+
